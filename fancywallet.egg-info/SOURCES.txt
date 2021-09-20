@@ -1,0 +1,7 @@
+setup.py
+fancywallet.egg-info/PKG-INFO
+fancywallet.egg-info/SOURCES.txt
+fancywallet.egg-info/dependency_links.txt
+fancywallet.egg-info/entry_points.txt
+fancywallet.egg-info/requires.txt
+fancywallet.egg-info/top_level.txt

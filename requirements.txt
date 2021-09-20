@@ -1,0 +1,5 @@
+click==8.0.1
+Flask==2.0.1
+Jinja2==3.0.1
+mysql-connector-python==8.0.26
+flask-restx==0.5.1
